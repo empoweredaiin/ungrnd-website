@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/ungrnd-v7.html" },
+    { "source": "/", "destination": "/ungrnd-v2.html" },
     { "source": "/essay/unconscious-possession", "destination": "/ungrnd-essay-001.html" },
     { "source": "/essay/hyperadapted", "destination": "/ungrnd-essay-002.html" }
   ]
